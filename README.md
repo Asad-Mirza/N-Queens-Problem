@@ -3,3 +3,5 @@ The n-queens puzzle is the problem of placing n queens on a (n×n) chessboard su
 where the solutions are a permutation of [1,2,3..n] in increasing order,
 here the number in the ith place denotes that the ith-column queen is placed in the row with that number. 
 For eg below figure represents a chessboard [3 1 4 2].
+
+Alogrithm used - Backtracking and Recursion (in C++)
